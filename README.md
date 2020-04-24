@@ -1,6 +1,6 @@
-<div style="display: flex; justify-content: center; align-items: center;>
-<img src="https://github.com/IgorCruzz/HERO/blob/master/frontend/src/assets/logo.svg" alt="logo"/>
- </div
+ 
+<img src="https://github.com/IgorCruzz/HERO/blob/master/frontend/src/assets/logo.svg" alt="logo" style="margin-left: 50%" />
+ 
  
 <img src="https://github.com/IgorCruzz/HERO/blob/master/screenshots/LOGIN.png" alt="login" />
 <img src="https://github.com/IgorCruzz/HERO/blob/master/screenshots/DASHBOARD-B.png" alt="DashboardB" />
