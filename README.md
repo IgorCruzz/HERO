@@ -1,5 +1,5 @@
  
-<img src="https://github.com/IgorCruzz/HERO/blob/master/frontend/src/assets/logo.svg" alt="logo" style="margin-left: 50%" />
+<img src="https://github.com/IgorCruzz/HERO/blob/master/frontend/src/assets/logo.svg" alt="logo" style="margin-left = 50%" />
  
  
 <img src="https://github.com/IgorCruzz/HERO/blob/master/screenshots/LOGIN.png" alt="login" />
