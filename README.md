@@ -8,11 +8,11 @@
  - Express
  - React
  - React(redux)
- - Sequelize
+ :game_die: Sequelize
  - Expo
  - Nodemailer
  - SendGrid
- - Redis
+ :game_die: Redis
  - Bee-Queue
  - Sucrase
  - Nodemon
