@@ -13,9 +13,9 @@
  - Nodemailer
  - SendGrid
  - :game_die: Redis
- - Bee-Queue
+ - :honeybee: Bee-Queue
  - Sucrase
- - Nodemon
+ - :pager: Nodemon
  - :traffic_light: Jest
 
  
