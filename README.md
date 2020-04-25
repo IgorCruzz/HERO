@@ -4,7 +4,19 @@
 <hr />
 Tecnologias utilizadas
 
- - Backend - NodeJS
+ - NodeJS
+ - Express
+ - React
+ - React(redux)
+ - Sequelize
+ - Expo
+ - Nodemailer
+ - SendGrid
+ - Redis
+ - Bee-Queue
+ - Sucrase
+ - Nodemon
+
  
  <hr />
  
