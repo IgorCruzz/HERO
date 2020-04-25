@@ -4,10 +4,10 @@
 <hr />
 :hammer: Tecnologias utilizadas
 
- - NodeJS
- - Express
- - React
- - React(redux) 
+ - :hash: NodeJS
+ - :hash:  Express
+ - :hash: React
+ - :hash: React(redux) 
  - :game_die: Sequelize
  - Expo
  - Nodemailer
