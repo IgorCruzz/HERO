@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/IgorCruzz/HERO/blob/master/frontend/src/assets/logo.svg" alt="logo" style="margin-left = 50%" />
 </p>
-
+ <hr />
 :hammer: Tecnologias utilizadas
 
  - :hash: NodeJS
@@ -21,7 +21,7 @@
  - :traffic_light: Jest
 
  
- <hr />
+
  
 <img src="https://github.com/IgorCruzz/HERO/blob/master/screenshots/LOGIN.png" alt="login" />
 <img src="https://github.com/IgorCruzz/HERO/blob/master/screenshots/DASHBOARD-B.png" alt="DashboardB" />
