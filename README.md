@@ -7,13 +7,12 @@
  - NodeJS
  - Express
  - React
- - React(redux)
- 
- :game_die: Sequelize
+ - React(redux) 
+ - :game_die: Sequelize
  - Expo
  - Nodemailer
  - SendGrid
- :game_die: Redis
+ - :game_die: Redis
  - Bee-Queue
  - Sucrase
  - Nodemon
