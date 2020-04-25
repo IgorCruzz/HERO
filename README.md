@@ -1,7 +1,7 @@
  
 <img src="https://github.com/IgorCruzz/HERO/blob/master/frontend/src/assets/logo.svg" alt="logo" style="margin-left = 50%" />
 
-
+<hr />
 Tecnologias utilizadas
 
  - Backend - NodeJS
