@@ -9,13 +9,14 @@
  - :hash: React
  - :hash: React(redux) 
  - :game_die: Sequelize
- - Expo
+ - :bar_chart: Expo
  - Nodemailer
  - SendGrid
  - :game_die: Redis
  - Bee-Queue
  - Sucrase
  - Nodemon
+ - :traffic_light: Jest
 
  
  <hr />
