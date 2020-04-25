@@ -8,6 +8,7 @@
  - Express
  - React
  - React(redux)
+ 
  :game_die: Sequelize
  - Expo
  - Nodemailer
