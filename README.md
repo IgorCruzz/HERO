@@ -6,7 +6,7 @@ Tecnologias utilizadas
 
  - Backend - NodeJS
  
- 
+ <hr />
  
 <img src="https://github.com/IgorCruzz/HERO/blob/master/screenshots/LOGIN.png" alt="login" />
 <img src="https://github.com/IgorCruzz/HERO/blob/master/screenshots/DASHBOARD-B.png" alt="DashboardB" />
