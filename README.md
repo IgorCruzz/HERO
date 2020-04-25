@@ -10,11 +10,11 @@
  - :hash: React(redux) 
  - :game_die: Sequelize
  - :bar_chart: Expo
- - Nodemailer
- - SendGrid
+ - :e-mail: Nodemailer
+ - :e-mail: SendGrid
  - :game_die: Redis
  - :honeybee: Bee-Queue
- - Sucrase
+ - :black_nib: Sucrase
  - :pager: Nodemon
  - :traffic_light: Jest
 
